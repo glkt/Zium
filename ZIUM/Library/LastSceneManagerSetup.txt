@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/zium_example.unity
+- path: Assets/zium_example2.unity
   isLoaded: 1
   isActive: 1

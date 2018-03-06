@@ -3,7 +3,7 @@
  Shader "Tessellation triplanar" {
         Properties {
             _EdgeLength ("Edge length", Range(2,1000)) = 15
-            _worldOffset ("offset", Float) = 0
+            //_worldOffset ("offset", Float) = 0
             _rim ("rim", Float) = 0
             _rimP ("rimP", Float) = 0
             _Wsize ("Wsize", Range(0.01,10)) = 1
